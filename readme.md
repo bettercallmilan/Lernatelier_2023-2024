@@ -8,7 +8,7 @@
 
 Ich möchte besser Visual Studio kennnenlernen und verstehen, wie es funktioniert.
 
-## Arbeitspakete für dd.mm.yyyy
+## Arbeitspakete für 29.08.2023
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt. 
 
