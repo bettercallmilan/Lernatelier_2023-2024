@@ -68,7 +68,7 @@ Heute habe ich mich ausgiebig meiner Arbeit gewidmet und konnte in meinen C#-Pro
 
 ## Arbeitspakete für 12.09.2023
 
-- [ ] Ein Programm, welcher Euro in CHF umrechnet (benutzt öffentliche APIs)
+- [ ] Ein Programm, welcher Euro in CHF umrechnet (benutzt öffentliche APIs).
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
