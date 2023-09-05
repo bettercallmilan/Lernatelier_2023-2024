@@ -22,7 +22,7 @@ Ich möchte besser Visual Studio kennnenlernen und verstehen, wie es funktionier
 | ------------------------ | ----------------- | ----------------- |
 | Programm in VS gestartet | `Zahl 1 + Zahl 2` | `Resultat`        |
 
-- [x] Ein Programm, welcher zufällig ja/nein-Fragen
+- [x] Ein Programm, welcher zufällig ja/nein-Fragen beantwortet.
 
 | Vorbereitung             | Eingabe             | Erwartete Ausgabe |
 | ------------------------ | ------------------- | ----------------- |
@@ -39,26 +39,55 @@ Ich habe heute konzentriert gearbeitet und habe durch meine Projekte neue Sachen
 
 ## Arbeitspakete für 05.09.2023
 
-- [ ] Ein Programm, der einen Zufallspasswort erstellt
+- [x] Ein Programm, der einen Zufallspasswort erstellt
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `Anzahl Charaktere` | `z. B. BS7KawkSnwo`     |
 
-- [ ] Ein Programm, der von einer gegebenen Zahl ein Countdown startet.
+- [x] Ein Programm, der von einer gegebenen Zahl ein Countdown startet.
 
 | Vorbereitung             | Eingabe           | Erwartete Ausgabe |
 | ------------------------ | ----------------- | ----------------- |
 | Programm in VS gestartet | `10` | `10, 9, 8...`        |
 
-- [ ] Ein Programm, der das Gesamtkosten einer Reise ausrechnet.
+- [x] Ein Programm, der das Gesamtkosten einer Reise ausrechnet.
 
 | Vorbereitung             | Eingabe             | Erwartete Ausgabe |
 | ------------------------ | ------------------- | ----------------- |
 | Programm in VS gestartet | `Tickets: 250, Hotel: 500...` | `Insgesamt 750`    |
 
-- [ ] Ein Programm, welche das Body Mass Index (BMI) berechnet.
+- [x] Ein Programm, welche das Body Mass Index (BMI) berechnet.
 
 | Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
 | ------------------------ | -------------------- | ------------------------------------- |
 | Programm in VS gestartet | `Gewicht eingeben, Grösse usw.` | `BMI = z. B. 12` |
+
+Heute habe ich mich ausgiebig meiner Arbeit gewidmet und konnte in meinen C#-Projekten bedeutende Fertigkeiten und Konzepte erlernen. Es freut mich, berichten zu können, dass ich sämtliche meiner Projekte erfolgreich abschliessen konnte. Wann immer ich auf Schwierigkeiten gestossen bin, habe ich im Internet nach Antworten gesucht, und sollte ich einmal keine Lösung gefunden haben, habe ich die Unterstützung von ChatGPT in Anspruch genommen. Dabei habe ich neue Ideen und Techniken entdeckt, die mir zuvor nicht in dieser Deutlichkeit bewusst waren. Ich habe mich viel mit den Kontrollstrukturen in diesen Projekten auseinandergesetzt und konnte Sie somit besser erlernen. (97 W)
+
+
+## Arbeitspakete für 12.09.2023
+
+- [ ] Ein Programm, welcher Euro in CHF umrechnet (benutzt öffentliche APIs)
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Programm in VS gestartet; API gefunden | `Betrag Euro: 100` | `Betrag CHF: 95`     |
+
+- [ ] Ein Programm, welcher die Tage, Stunden und Minuten bis zum Ereignis berechnet.
+
+| Vorbereitung             | Eingabe           | Erwartete Ausgabe |
+| ------------------------ | ----------------- | ----------------- |
+| Programm in VS gestartet | `Datum vom Ereignis` | `z.B. 19 Tage, 20 Stunden und 10 Minuten`        |
+
+- [ ] Ein Programm, welcher die Wörter in einen eingegebenen Text zählt.
+
+| Vorbereitung             | Eingabe             | Erwartete Ausgabe |
+| ------------------------ | ------------------- | ----------------- |
+| Programm in VS gestartet | `Dieser Text hat fünf Wörter.` | `Anzahl Wörter: 5`    |
+
+- [ ] Ein Programm, welcher das aktuelle Wetter in Baden/Brugg anzeigt.
+
+| Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
+| ------------------------ | -------------------- | ------------------------------------- |
+| Programm in VS gestartet, API gefunden | `Baden/Brugg` | `z. B. Baden: 24.2°C` |
