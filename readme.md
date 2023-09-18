@@ -68,26 +68,46 @@ Heute habe ich mich ausgiebig meiner Arbeit gewidmet und konnte in meinen C#-Pro
 
 ## Arbeitspakete für 12.09.2023
 
-- [ ] Ein Programm, welcher Euro in CHF umrechnet (benutzt öffentliche APIs).
+- [x] Ein Programm, welcher Euro in CHF umrechnet (benutzt öffentliche APIs).
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet; API gefunden | `Betrag Euro: 100` | `Betrag CHF: 95`     |
 
-- [ ] Ein Programm, welcher die Tage, Stunden und Minuten bis zum Ereignis berechnet.
+- [x] Ein Programm, welcher die Tage, Stunden und Minuten bis zum Ereignis berechnet.
 
 | Vorbereitung             | Eingabe           | Erwartete Ausgabe |
 | ------------------------ | ----------------- | ----------------- |
 | Programm in VS gestartet | `Datum vom Ereignis` | `z.B. 19 Tage, 20 Stunden und 10 Minuten`        |
 
-- [ ] Ein Programm, welcher die Wörter in einen eingegebenen Text zählt.
+- [x] Ein Programm, welcher die Wörter in einen eingegebenen Text zählt.
 
 | Vorbereitung             | Eingabe             | Erwartete Ausgabe |
 | ------------------------ | ------------------- | ----------------- |
 | Programm in VS gestartet | `Dieser Text hat fünf Wörter.` | `Anzahl Wörter: 5`    |
 
-- [ ] Ein Programm, welcher das aktuelle Wetter in Baden/Brugg anzeigt.
+- [x] Ein Programm, welcher das aktuelle Wetter in Baden/Brugg anzeigt.
 
 | Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
 | ------------------------ | -------------------- | ------------------------------------- |
 | Programm in VS gestartet, API gefunden | `Baden/Brugg` | `z. B. Baden: 24.2°C` |
+
+Ich konnte heute lernen, wie man das API in C# benutzen kann. Im ersten Programm habe ich es mit api.exchangerate.host geschafft, Euro in CHF umzurechnen. Es gibt viele neue Sachen, die ich nicht kenne, jedoch mit mehr Übungen werde ich sie sicherlich gut kennenlernen. Der dritte Programm, der die Wörter zählt finde ich hilfreich für die Arbeitspakete, da ich diesen Text einfach einsetzen kann und mir werden die Anzahl Wörter ausgegeben. Dies habe ich so programmiert: string[] words = input.Split(new char[] { ' ', '.', ',', '!', '?' }, StringSplitOptions.RemoveEmptyEntries); int wordCount = words.Length; (94 W).
+
+
+## Arbeitspakete für 19.09.2023
+
+- [ ] Alles digital oder in einem Heft aufschreiben, was ich in C# lerne (und was ich bisher gelernt habe). Diese Aufzeichnungen sind meine Ressource, um schnell auf mein Wissen zuzugreifen und es zu überprüfen. Sie helfen mir auch, spezifische Konzepte wie Schleifen besser zu verstehen und zu üben, und ermöglichen mir eine effizientere Lernreise.
+
+Falls noch Zeit:
+
+- [ ] Ein Programm, welcher Fragen (vom User eingegeben) stellt und überprüft, ob die Antwort richtig oder falsch ist.
+| Vorbereitung             | Eingabe             | Erwartete Ausgabe |
+| ------------------------ | ------------------- | ----------------- |
+| Programm in VS gestartet | `Frage: Ist 2 + 2 = 4? Antwort: 3` | `Falsch.`    |
+
+- [ ] Ein Programm, welcher einen zufälligen Agenten in VALORANT ausgibt.
+
+| Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
+| ------------------------ | -------------------- | ------------------------------------- |
+| Programm in VS gestartet | `Controller / Duelist / Initiator / Sentinel` | `z. B. bei Sentitel: Sage` |
