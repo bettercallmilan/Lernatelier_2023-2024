@@ -99,8 +99,6 @@ Ich konnte heute lernen, wie man das API in C# benutzen kann. Im ersten Programm
 
 - [ ] Alles digital oder in einem Heft aufschreiben, was ich in C# lerne (und was ich bisher gelernt habe). Diese Aufzeichnungen sind meine Ressource, um schnell auf mein Wissen zuzugreifen und es zu überprüfen. Sie helfen mir auch, spezifische Konzepte wie Schleifen besser zu verstehen und zu üben, und ermöglichen mir eine effizientere Lernreise.
 
-Falls noch Zeit:
-
 - [ ] Ein Programm, welcher Fragen (vom User eingegeben) stellt und überprüft, ob die Antwort richtig oder falsch ist.
 | Vorbereitung             | Eingabe             | Erwartete Ausgabe |
 | ------------------------ | ------------------- | ----------------- |
