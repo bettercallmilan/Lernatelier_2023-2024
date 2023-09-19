@@ -97,16 +97,39 @@ Ich konnte heute lernen, wie man das API in C# benutzen kann. Im ersten Programm
 
 ## Arbeitspakete für 19.09.2023
 
-- [ ] Alles digital oder in einem Heft aufschreiben, was ich in C# lerne (und was ich bisher gelernt habe). Diese Aufzeichnungen sind meine Ressource, um schnell auf mein Wissen zuzugreifen und es zu überprüfen. Sie helfen mir auch, spezifische Konzepte wie Schleifen besser zu verstehen und zu üben, und ermöglichen mir eine effizientere Lernreise.
+- [x] Alles digital oder in einem Heft aufschreiben, was ich in C# lerne (und was ich bisher gelernt habe). Diese Aufzeichnungen sind meine Ressource, um schnell auf mein Wissen zuzugreifen und es zu überprüfen. Sie helfen mir auch, spezifische Konzepte wie Schleifen besser zu verstehen und zu üben, und ermöglichen mir eine effizientere Lernreise.
 
-- [ ] Ein Programm, welcher Fragen (vom User eingegeben) stellt und überprüft, ob die Antwort richtig oder falsch ist.
+- [x] Ein Programm, welcher Fragen (vom User eingegeben) stellt und überprüft, ob die Antwort richtig oder falsch ist.
 
 | Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
 | ------------------------ | -------------------- | ------------------------------------- |
 | Programm in VS gestartet | `Frage & Antwort gegeben.` | `Frage und dann Anfrage Antwort.` |
 
-- [ ] Ein Programm, welcher einen zufälligen Agenten in VALORANT ausgibt.
+- [x] Ein Programm, welcher einen zufälligen Agenten in VALORANT ausgibt.
 
 | Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
 | ------------------------ | -------------------- | ------------------------------------- |
 | Programm in VS gestartet | `Controller / Duelist / Initiator / Sentinel` | `z. B. bei Sentinel: Sage` |
+
+Heute habe ich an meiner C#-Dokumentation gearbeitet, in der ich all meine bisherigen Erkenntnisse und Fortschritte festhalte. Es war eine produktive Zeit, in der ich nicht nur meine Dokumentation aktualisiert, sondern auch an meinen zwei geplanten Arbeitspaketen gearbeitet und sie erfolgreich abgeschlossen habe. Während meiner Arbeit sind einige Unklarheiten aufgetreten, die ich mithilfe von ChatGPT klären konnte. Die Möglichkeit, auf diese Weise auf Fragen und Herausforderungen in meinem Lernprozess einzugehen, war äusserst hilfreich und hat mir geholfen, mein Verständnis für C# zu vertiefen. Ich habe die Funktion Random vertieft indem ich nicht nur Zahlen ausgeben liess, sondern auch mit Hilfe von Arrays verschiedene Wörter (VALORANT Agent Picker).
+
+
+## Arbeitspakete für 26.09.2023
+
+- [x] Ein Programm, welcher
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Programm in VS gestartet | `a` | `a`     |
+
+- [x] Ein Programm, welcher
+
+| Vorbereitung             | Eingabe           | Erwartete Ausgabe |
+| ------------------------ | ----------------- | ----------------- |
+| Programm in VS gestartet | `a` | `a`        |
+
+- [x] Ein Programm, welcher
+
+| Vorbereitung             | Eingabe             | Erwartete Ausgabe |
+| ------------------------ | ------------------- | ----------------- |
+| Programm in VS gestartet | `a` | `a`    |
