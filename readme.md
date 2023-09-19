@@ -109,4 +109,4 @@ Ich konnte heute lernen, wie man das API in C# benutzen kann. Im ersten Programm
 
 | Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
 | ------------------------ | -------------------- | ------------------------------------- |
-| Programm in VS gestartet | `Controller / Duelist / Initiator / Sentinel` | `z. B. bei Sentitel: Sage` |
+| Programm in VS gestartet | `Controller / Duelist / Initiator / Sentinel` | `z. B. bei Sentinel: Sage` |
