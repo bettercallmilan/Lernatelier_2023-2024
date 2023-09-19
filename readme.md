@@ -101,9 +101,9 @@ Ich konnte heute lernen, wie man das API in C# benutzen kann. Im ersten Programm
 
 - [ ] Ein Programm, welcher Fragen (vom User eingegeben) stellt und überprüft, ob die Antwort richtig oder falsch ist.
 
-| Vorbereitung             | Eingabe             | Erwartete Ausgabe |
-| ------------------------ | ------------------- | ----------------- |
-| Programm in VS gestartet | `Frage: Ist 2 + 2 = 4? Antwort: 3` | `Falsch.` |
+| Vorbereitung             | Eingabe              | Erwartete Ausgabe                     |
+| ------------------------ | -------------------- | ------------------------------------- |
+| Programm in VS gestartet | `Frage & Antwort gegeben.` | `Frage und dann Anfrage Antwort.` |
 
 - [ ] Ein Programm, welcher einen zufälligen Agenten in VALORANT ausgibt.
 
