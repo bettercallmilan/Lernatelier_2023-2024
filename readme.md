@@ -116,20 +116,6 @@ Heute habe ich an meiner C#-Dokumentation gearbeitet, in der ich all meine bishe
 
 ## Arbeitspakete für 26.09.2023
 
-- [x] Ein Programm, welcher
+- [x] An Modul 431 weiterarbeiten und Expertenziele fertigmachen.
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `a` | `a`     |
-
-- [x] Ein Programm, welcher
-
-| Vorbereitung             | Eingabe           | Erwartete Ausgabe |
-| ------------------------ | ----------------- | ----------------- |
-| Programm in VS gestartet | `a` | `a`        |
-
-- [x] Ein Programm, welcher
-
-| Vorbereitung             | Eingabe             | Erwartete Ausgabe |
-| ------------------------ | ------------------- | ----------------- |
-| Programm in VS gestartet | `a` | `a`    |
+- [ ] An Modul 319 weiterarbeiten und E-Portfolio weiterschreiben.
