@@ -32,8 +32,8 @@ Ich habe diese Arbeitspakete erfolgreich bearbeitet, wobei mir ChatGPT und Lukas
 
 ## Arbeitspakete für 07.11.2023
 
-- [x] Passwort-Encryption fertigprogrammieren
+- [ ] Passwort-Encryption fertigprogrammieren
 
-- [x] besseres Welcome-Screen
+- [ ] besseres Welcome-Screen
       
-- [x] an Modul 319 Portfolio schaffen (mind. 2 Zeilen aus den Handlungszielen)
+- [ ] an Modul 319 Portfolio schaffen (mind. 2 Zeilen aus den Handlungszielen)
