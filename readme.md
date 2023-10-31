@@ -20,10 +20,20 @@ Heute haben wir mit dem Projekt angefangen und die nötigen Vorbereitungen abges
 
 ## Arbeitspakete für 31.10.2023
 
-- [ ] Passwort-Encryption programmieren
+- [x] Passwort-Encryption programmieren
 
-- [ ] kürzlich verwendete Dateien Screen programmieren (Taste R)
+- [x] kürzlich verwendete Dateien Screen programmieren (Taste R)
 
-- [ ] Code auf Englisch übersetzen
+- [x] Code auf Englisch übersetzen
 
-- [ ] einzelne Funktionen in C# repetieren
+- [x] einzelne Funktionen in C# repetieren
+
+Ich habe diese Arbeitspakete erfolgreich bearbeitet, wobei mir ChatGPT und Lukas bei Problemen halfen. Das Wiederholen der Funktionen in C# war eine nützliche Auffrischung. Obwohl ich nicht alle Funktionen, die in unserer App benutzt wurden kenne, konnte ich mich doch einigermasse zurechtfinden und die einzelnen Funktionen implementieren. Die Password-Encryption konnte ich nicht ganz fertigschaffen, da ich einige Sachen nicht verstand, jedoch erklärte es mir Lukas und ich werde es nächstes Mal fertigstellen.
+
+## Arbeitspakete für 07.11.2023
+
+- [x] Passwort-Encryption fertigprogrammieren
+
+- [x] besseres Welcome-Screen
+      
+- [x] an Modul 319 Portfolio schaffen (mind. 2 Zeilen aus den Handlungszielen)
