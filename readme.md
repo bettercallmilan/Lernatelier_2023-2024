@@ -28,12 +28,22 @@ Heute haben wir mit dem Projekt angefangen und die nötigen Vorbereitungen abges
 
 - [x] einzelne Funktionen in C# repetieren
 
-Ich habe diese Arbeitspakete erfolgreich bearbeitet, wobei mir ChatGPT und Lukas bei Problemen halfen. Das Wiederholen der Funktionen in C# war eine nützliche Auffrischung. Obwohl ich nicht alle Funktionen, die in unserer App benutzt wurden kenne, konnte ich mich doch einigermasse zurechtfinden und die einzelnen Funktionen implementieren. Die Password-Encryption konnte ich nicht ganz fertigschaffen, da ich einige Sachen nicht verstand, jedoch erklärte es mir Lukas und ich werde es nächstes Mal fertigstellen.
+Ich habe diese Arbeitspakete erfolgreich bearbeitet, wobei mir ChatGPT und Lukas bei Problemen halfen. Das Wiederholen der Funktionen in C# war eine nützliche Auffrischung. Obwohl ich nicht alle Funktionen, die in unserer App benutzt wurden kenne, konnte ich mich doch einigermasse zurechtfinden und die einzelnen Funktionen implementieren. Die Password-Encryption konnte ich nicht ganz fertigschaffen, da ich einige Sachen nicht verstand, jedoch erklärte es mir Lukas und ich werde es nächstes Mal fertigstellen. (72W)
 
 ## Arbeitspakete für 07.11.2023
 
 - [ ] Passwort-Encryption fertigprogrammieren
 
-- [ ] besseres Welcome-Screen
+- [x] besseres Welcome-Screen
       
-- [ ] an Modul 319 Portfolio schaffen (mind. 2 Zeilen aus den Handlungszielen)
+- [x] an Modul 319 Portfolio schaffen (mind. 2 Zeilen aus den Handlungszielen)
+
+Ich konnte fast alle Arbeitspakete fertigmachen, ausser die Passwort-Encryption. Ich war nicht sicher, ob ich es richtig mache und wollte nichts kaputtmachen, deswegen liess ich es fürs nächste Mal, wo Lukas mir zuschauen kann und prüfen kann, ob alles stimmt. Ich bin sehr froh, dass ich mit dem Portfolio ganz fertig werden konnte, da dies eine sehr grosse Aufgabe war und jetzt habe ich sie endlich fertig. (67W)
+
+## Arbeitspakete für 07.11.2023
+
+- [ ] Passwort-Encryption ganz fertigprogrammieren
+
+- [ ] als Auffrischung und Repetition von C# Funktionen: Taschenrechner programmieren 
+      
+- [ ] am Projekt für die Kantonsschule schaffen (falls Aufgabenstellung erklärt worden ist am Freitag)
