@@ -40,10 +40,20 @@ Ich habe diese Arbeitspakete erfolgreich bearbeitet, wobei mir ChatGPT und Lukas
 
 Ich konnte fast alle Arbeitspakete fertigmachen, ausser die Passwort-Encryption. Ich war nicht sicher, ob ich es richtig mache und wollte nichts kaputtmachen, deswegen liess ich es fürs nächste Mal, wo Lukas mir zuschauen kann und prüfen kann, ob alles stimmt. Ich bin sehr froh, dass ich mit dem Portfolio ganz fertig werden konnte, da dies eine sehr grosse Aufgabe war und jetzt habe ich sie endlich fertig. (67W)
 
-## Arbeitspakete für 07.11.2023
+## Arbeitspakete für 14.11.2023
 
-- [ ] Passwort-Encryption ganz fertigprogrammieren
+- [x] Passwort-Encryption ganz fertigprogrammieren
 
-- [ ] als Auffrischung und Repetition von C# Funktionen: Taschenrechner programmieren 
+- [x] als Auffrischung und Repetition von C# Funktionen: Taschenrechner programmieren 
       
-- [ ] am Projekt für die Kantonsschule schaffen (falls Aufgabenstellung erklärt worden ist am Freitag)
+- [x] am Projekt für die Kantonsschule schaffen (falls Aufgabenstellung erklärt worden ist am Freitag)
+
+Ich habe die Passwort-Encryption mit Lukas Hilfe fertigprogrammiert und sie funktioniert, wie wir es wollten. Ich konnte die Funktion "crypt" ein bisschen kennenlernen. Den Auffrischungsprogramm (Taschenrechner) habe ich angefangen, hatte jedoch nicht genug Zeit, es fertig zu schaffen. Ich konnte jedoch mit dem Projekt für die Kantonsschule mit Lukas und Timotej beginnen. Wir haben die wichtigste Anfangsschritte zusammen angeschaut und fertiggemacht. (61W)
+
+## Arbeitspakete für 21.11.2023
+
+- [ ] Taschenrechner von letzter Woche fertig programmieren
+
+- [ ] Bei Console Notes App das readme File auf GitHub mit allen Funktionen schreiben und gestalten
+
+- [ ] am Projekt für die Kantonsschule schaffen (Nahrungsnetz)
