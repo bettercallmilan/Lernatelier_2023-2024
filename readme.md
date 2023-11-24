@@ -52,8 +52,18 @@ Ich habe die Passwort-Encryption mit Lukas Hilfe fertigprogrammiert und sie funk
 
 ## Arbeitspakete für 21.11.2023
 
-- [ ] Taschenrechner von letzter Woche fertig programmieren
+- [x] Taschenrechner von letzter Woche fertig programmieren
 
-- [ ] Bei Console Notes App das readme File auf GitHub mit allen Funktionen schreiben und gestalten
+- [x] Bei Console Notes App das readme File auf GitHub mit allen Funktionen schreiben und gestalten
 
-- [ ] am Projekt für die Kantonsschule schaffen (Nahrungsnetz)
+- [x] am Projekt für die Kantonsschule schaffen (Nahrungsnetz)
+
+Ich konnte heute meinen Taschenrechner fertig programmieren und es funktioniert so wie erwünscht. Das readme-File von unsere Note Console App habe ich auch noch fertig gestaltet mit allen Funktionen usw. Ich konnte auch noch zusätzlich an dem Projekt für die Kantonsschule schaffen (Nahrungsnetz). Ich konnte WinForms besser kennenlernen und kenne jetzt die Basics davon. (54W)
+
+## Arbeitspakete für 28.11.2023
+
+- [ ] die Ausdrucklogik (CTRL + P) realisieren und implementieren (noteconsole)
+
+- [ ] Bei Console Notes App Funktion implementieren bei der man durch die Notiz mit dem Mausrad scrollen kann
+
+- [ ] am Projekt für die Kantonsschule schaffen
