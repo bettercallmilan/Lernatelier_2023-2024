@@ -62,8 +62,19 @@ Ich konnte heute meinen Taschenrechner fertig programmieren und es funktioniert 
 
 ## Arbeitspakete für 28.11.2023
 
-- [ ] die Ausdrucklogik (CTRL + P) realisieren und implementieren (noteconsole)
+- [x] die Ausdrucklogik (CTRL + P) realisieren und implementieren (noteconsole)
 
-- [ ] Bei Console Notes App Funktion implementieren bei der man durch die Notiz mit dem Mausrad scrollen kann
+- [x] Bei Console Notes App Funktion implementieren bei der man durch die Notiz mit dem Mausrad scrollen kann
+
+- [x] am Projekt für die Kantonsschule schaffen
+
+Heute konnte ich zum Teil die Ausdrucklogik programmieren. Am Ende hat es leider nicht funktioniert, da die Bibliothek, die dafür ständig war, den File in .pdf umzuwandeln, Probleme hatte. Da ich schon ein Teil meiner Zeit mit dem verbrauchte, musste ich weitergehen, damit ich auch an den anderen Arbeitspaketen arbeiten kann. Somit werde ich die Ausdrucklogik nächstes mal wieder probieren zu implementieren. Die Scroll-Funktion habe ich mit Lukas besprochen und wir beide konnten uns darauf einigen, diese Funktion zu entfernen, da sie nur für Windows funktionieren würde und auch sehr kompliziert ist. Ich konnte noch am Ende ein bisschen am Projekt für die Kantonsschule schaffen. (105W)
+
+## Arbeitspakete für 05.12.2023
+
+- [ ] die Ausdrucklogik (CTRL + P) realisieren und implementieren (noteconsole) --> von letzter Woche zum Fertigmachen
+
+- [ ] noteconsole: Screenshots in readme hinzufügen (um die Funktionen besser darzustellen)
 
 - [ ] am Projekt für die Kantonsschule schaffen
+
