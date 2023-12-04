@@ -69,6 +69,7 @@ Heute konnte ich zum Teil die Ausdrucklogik programmieren. Am Ende hat es leider
 ## Arbeitspakete für 05.12.2023
 
 - [ ] die Ausdrucklogik (CTRL + P) realisieren und implementieren (noteconsole) --> von letzter Woche zum Fertigmachen
+      FALLS AUSDRUCKLOGIK NICHT GEHT: Am Portfolio vom Modul 162 arbeiten
 
 - [ ] noteconsole: Screenshots in readme hinzufügen (um die Funktionen besser darzustellen)
 
