@@ -79,8 +79,8 @@ Ich probierte heute wieder die Ausdrucklogik fertig zu machen, jedoch ging es le
 
 ## Arbeitspakete für 12.12.2023
 
-- [ ] 
+- [ ] programmieren
 
-- [ ] 
+- [ ] AOC
 
 - [ ] am Projekt für die Kantonsschule schaffen
