@@ -68,10 +68,19 @@ Heute konnte ich zum Teil die Ausdrucklogik programmieren. Am Ende hat es leider
 
 ## Arbeitspakete für 05.12.2023
 
-- [ ] die Ausdrucklogik (CTRL + P) realisieren und implementieren (noteconsole) --> von letzter Woche zum Fertigmachen
+- [x] die Ausdrucklogik (CTRL + P) realisieren und implementieren (noteconsole) --> von letzter Woche zum Fertigmachen
       FALLS AUSDRUCKLOGIK NICHT GEHT: Am Portfolio vom Modul 162 arbeiten
 
-- [ ] noteconsole: Screenshots in readme hinzufügen (um die Funktionen besser darzustellen)
+- [x] noteconsole: Screenshots in readme hinzufügen (um die Funktionen besser darzustellen)
 
 - [ ] am Projekt für die Kantonsschule schaffen
 
+Ich probierte heute wieder die Ausdrucklogik fertig zu machen, jedoch ging es leider nicht. Die nuGet-Pakete, die ich ausprobierte hatten alle ein Problem und ChatGPT konnte es leider nicht lösen, deswegen arbeitete ich weiter an meinem Portfolio. Bei noteconsole konnte ich paar Screenshots in readme.md einfügen, was die Übersicht der Funktionen besser machte. Am Projekt für die Kantonsschule konnte ich leider nicht arbeiten, aber da es gar nicht mehr so viel zu erledigen gibt, ist es nicht so schlimm. (79W)
+
+## Arbeitspakete für 12.12.2023
+
+- [ ] 
+
+- [ ] 
+
+- [ ] am Projekt für die Kantonsschule schaffen
