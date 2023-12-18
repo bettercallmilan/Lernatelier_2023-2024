@@ -79,8 +79,18 @@ Ich probierte heute wieder die Ausdrucklogik fertig zu machen, jedoch ging es le
 
 ## Arbeitspakete für 12.12.2023
 
-- [ ] programmieren
+- [x] am Modul M164 arbeiten
 
-- [ ] AOC
+- [x] AOC
 
-- [ ] am Projekt für die Kantonsschule schaffen
+- [x] am Projekt für die Kantonsschule schaffen
+
+Ich konnte heute gut weiterkommen. Ich habe am Modul 164 gearbeitet und bin dort weitergekommen. Am AOC konnte ich auch noch ein bisschen weiterarbeiten. Das Projekt für die Kantonsschule war fast fertig, also habe ich noch die Dokumentation fertiggestellt und mit der Präsentation angefangen. (44W)
+
+## Arbeitspakete für 19.12.2023
+
+- [ ] am Modul M164 arbeiten
+
+- [ ] am Modul M117 arbeiten
+
+- [ ] am Projekt für die Kantonsschule schaffen (Präsentation)
