@@ -96,3 +96,9 @@ Ich konnte heute gut weiterkommen. Ich habe am Modul 164 gearbeitet und bin dort
 - [ ] am Projekt für die Kantonsschule schaffen (Präsentation)
 
 Ich konnte heute gut an den Modulen 164 und 117 weiterkommen. Ich habe die Aufträge, die in letzte Wocher am Donnerstag und am Freitag fertig machen können und somit bin ich wieder auf dem Laufenden und habe nicht hintergezogen. Da diese Aufträge von den Modulen ziemlich umfangreich waren, konnte ich an der Präsentation für den Projekt von der Kantonsschule leider nicht weiterarbeiten. (62W)
+
+## Reflexion
+
+Mein Ziel war es, eine Konsolen-Notizbuch App mit Lukas Hilfiker und Timotej Stojkovski zu erstellen. Da ich nicht so fortgeschritten bin wie Lukas (um komplizierte Sachen wie z. B. Datenbanken usw. in C# erstellen zu können), konnte ich nicht vieles an der App machen, jedoch half ich bei den einzelnen Funktionen. Ich konnte auch noch gut lernen, wie man eine Dokumentation (readme.md) für ein/e Projekt/App erstellen kann, da ich dies bei der Konsolen-Notizbuch App selber gemacht habe.
+Mein weiterer Ziel war es, die einzelne Funktionen von Modul 319 zu repetieren. Dies habe ich geschafft und denke, ich kann alle Funktionen, die wir damals gelernt haben. Dazu habe ich einen kleinen, einfachen Taschenrechner programmiert (zuerst als konsolenbasierte App und nachher mit Winforms). Mit dem konnte ich noch ein mal die Funktionen anschauen.
+Verbesserungsvorschlag: In der Freizeit mehr programmieren, da es zurzeit keine/wenige Module/Arbeiten gibt, bei denen man programmiert.
