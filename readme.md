@@ -89,8 +89,10 @@ Ich konnte heute gut weiterkommen. Ich habe am Modul 164 gearbeitet und bin dort
 
 ## Arbeitspakete für 19.12.2023
 
-- [ ] am Modul M164 arbeiten
+- [x] am Modul M164 arbeiten
 
-- [ ] am Modul M117 arbeiten
+- [x] am Modul M117 arbeiten
 
 - [ ] am Projekt für die Kantonsschule schaffen (Präsentation)
+
+Ich konnte heute gut an den Modulen 164 und 117 weiterkommen. Ich habe die Aufträge, die in letzte Wocher am Donnerstag und am Freitag fertig machen können und somit bin ich wieder auf dem Laufenden und habe nicht hintergezogen. Da diese Aufträge von den Modulen ziemlich umfangreich waren, konnte ich an der Präsentation für den Projekt von der Kantonsschule leider nicht weiterarbeiten. (62W)
