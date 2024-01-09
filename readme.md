@@ -26,15 +26,16 @@ Milan Jankovic
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Anforderungsanalyse und Planung
+- [ ] Benutzeroberfläche erstellen (WinForms oder Konsolenapplikation)
+- [ ] grundlegende Kalenderfunktionen implementieren
+- [ ] Termine hinzufügen und anzeigen
+
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 3              | Programm in C#       | Datum          | Daten für entsprechenden Datum gespeichert |          |
+| 4              | Datumlogik(-speicherung) funktioniert | für angegebenes Datum ein Termin einfügen (string) | Termin eingefügt |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -42,16 +43,17 @@ Milan Jankovic
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] Termine bearbeiten und löschen
+- [ ] Speicherung der Termindaten
+- [ ] Validierung und Fehlerbehandlung
+- [ ] Benutzerfreundlichkeit und Designverbesserungen; Tests und Fehlerbehebung
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+| 5               | Testfall-Nummer 3 & 4 | gewünschtes Datum | Anzeige Termine / Bearbeitung |          |
+| 6               | Testfall-Nummer 4 | gewünschtes Datum / Termin | z. B. "Gespeichert!" |          |
+| 7               | Testfall-Nummer 3 bis 6 | - | - |          |
+| 8               | Testfall-Nummer 3 bis 6 | - | - |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
