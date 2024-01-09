@@ -22,7 +22,7 @@ Milan Jankovic
 
 ## 9.1.2024
 
-✍️ Heute habe ich die Grob-Planung fertiggeschrieben.  (7 Wörter)
+✍️ Heute habe ich die Grob-Planung fertiggeschrieben. Ich konnte auch noch auf YouTube ein Tutorial anschauen, wie man Listen in C# benutzt. Dies fand ich sehr wichtig, da es die Grundlage war um die Kalenderanwendung zu programmieren. Ich glaube, ich kann diese Applikation in den 4 Wochen schaffen. (47 Wörter)
 
 ## 16.1 und 23.1.2024
 
