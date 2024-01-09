@@ -37,9 +37,9 @@ Milan Jankovic
 | 3              | Programm in C#       | Datum          | Daten für entsprechenden Datum gespeichert |          |
 | 4              | Datumlogik(-speicherung) funktioniert | für angegebenes Datum ein Termin einfügen (string) | Termin eingefügt |          |
 
-✍️ <!--Heute am 16.1 habe ich... (50-100 Wörter)-->
+✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
-☝️ <!--Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt-->
+☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 🗓️ 23.1.2024
 
@@ -55,13 +55,13 @@ Milan Jankovic
 | 7               | Testfall-Nummer 3 bis 6 | - | - |          |
 | 8               | Testfall-Nummer 3 bis 6 | - | - |          |
 
-✍️ <!--Heute am 23.1 habe ich... (50-100 Wörter)-->
+✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
-☝️ <!--Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt-->
+☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 🗓️ 30.1.2024
 
-✍️ <!--Heute am 23.1 habe ich... (50-100 Wörter)-->
+✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ## 🪞 Reflexion
 
