@@ -2,7 +2,7 @@
 
 Milan Jankovic
 
-9.1.2024 bis 30.1.2024 (☃️ Sportferien)
+09.01.2024 bis 30.01.2024 (☃️ Sportferien)
 
 ## 📝 Grob-Planung
 
@@ -20,24 +20,24 @@ Milan Jankovic
    Eventuell wäre eine Kalenderanwendung ein gutes Projekt für die LP3, da es nicht allzu viel Zeit benötigt und gut zum Repetieren ist. Es wäre Anwendung, die es Benutzern ermöglicht, Termine einzutragen,   
    anzuzeigen und zu verwalten. 
 
-## 🗓️ 9.1.2024
+## 🗓️ 09.01.2024
 
 ✍️ Heute habe ich die Grob-Planung fertiggeschrieben. Ich konnte auch noch auf YouTube ein Tutorial anschauen, wie man Listen in C# benutzt. Dies fand ich sehr wichtig, da es die Grundlage war um die Kalenderanwendung zu programmieren. Ich glaube, ich kann diese Applikation in den 4 Wochen schaffen. (47 Wörter)
 
-## 🗓️ 16.1 und 23.1.2024
+## 🗓️ 16.01.2024
 
-- [ ] Anforderungsanalyse und Planung
-- [ ] Benutzeroberfläche erstellen (WinForms oder Konsolenapplikation)
-- [ ] grundlegende Kalenderfunktionen implementieren
-- [ ] Termine hinzufügen und anzeigen
+- [x] Anforderungsanalyse und Planung
+- [x] Benutzeroberfläche erstellen (WinForms oder Konsolenapplikation)
+- [x] grundlegende Kalenderfunktionen implementieren
+- [x] Termine hinzufügen und anzeigen
 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 3              | Programm in C#       | Datum          | Daten für entsprechenden Datum gespeichert |          |
-| 4              | Datumlogik(-speicherung) funktioniert | für angegebenes Datum ein Termin einfügen (string) | Termin eingefügt |          |
+| 3              | Programm in C#       | Datum          | Daten für entsprechenden Datum gespeichert | ja |
+| 4              | Datumlogik(-speicherung) funktioniert | für angegebenes Datum ein Termin einfügen (string) | Termin eingefügt | ja |
 
-✍️ _Heute am 16.1 habe ich... (50-100 Wörter)_
+✍️ Heute am 16.01 habe ich mit dem Programmieren meiner Kalenderanwendung begonnen. Ich habe mich für die Konsolenapplikation anstatt WinForms entschieden. Ich konnte die grundlegende Kalenderfunktionen implementieren, darunter Termine hinzufügen und anzeigen. Dies habe ich mithilfe von Dictionaries gemacht. Die Testfälle waren beide erfolgreich und der Programm sieht bis jetzt gut aus. Ich habe meinen aktuellen Code auch noch auf GitHub hochgeladen. (61 Wörter)
 
 ☝️ _Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt_
 
@@ -59,9 +59,9 @@ Milan Jankovic
 
 ☝️ _Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt_
 
-## 🗓️ 30.1.2024
+## 🗓️ 30.01.2024
 
-✍️ _Heute am 23.1 habe ich... (50-100 Wörter)_
+✍️ _Heute am 30.01 habe ich... (50-100 Wörter)_
 
 ## 🪞 Reflexion
 
