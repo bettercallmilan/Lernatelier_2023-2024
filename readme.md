@@ -43,19 +43,19 @@ Milan Jankovic
 
 ## 🗓️ 23.1.2024
 
-- [ ] Termine bearbeiten und löschen
-- [ ] Speicherung der Termindaten
-- [ ] Validierung und Fehlerbehandlung
-- [ ] Benutzerfreundlichkeit und Designverbesserungen; Tests und Fehlerbehebung
+- [x] Termine bearbeiten und löschen
+- [x] Speicherung der Termindaten
+- [x] Validierung und Fehlerbehandlung
+- [x] Benutzerfreundlichkeit und Designverbesserungen; Tests und Fehlerbehebung
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               | Testfall-Nummer 3 & 4 | gewünschtes Datum | Anzeige Termine / Bearbeitung |          |
-| 6               | Testfall-Nummer 4 | gewünschtes Datum / Termin | z. B. "Gespeichert!" |          |
-| 7               | Testfall-Nummer 3 bis 6 | - | - |          |
-| 8               | Testfall-Nummer 3 bis 6 | - | - |          |
+| 5               | Testfall-Nummer 3 & 4 | gewünschtes Datum | Anzeige Termine / Bearbeitung | ja |
+| 6               | Testfall-Nummer 4 | gewünschtes Datum / Termin | z. B. "Gespeichert!" | ja |
+| 7               | Testfall-Nummer 3 bis 6 | - | - | ja |
+| 8               | Testfall-Nummer 3 bis 6 | - | - | ja |
 
-✍️ _Heute am 23.1 habe ich... (50-100 Wörter)_
+✍️ Heute am 23.01 habe ich den Programm fertiggestellt und bin somit mit meiner Kalenderanwendung fertig. Ich konnte die 4 Arbeitspakete erledigen und mein Programm lauft jetzt wie erwünscht. Ich konnte auch noch ein paar Verbesserungen vornehmen, wie zum Beispiel wenn man eine Taste drückt (z. B. R = Termine verändern), dass "Keine Termine gefunden." kommt. Ich bin stolz, da ich nur wenig ChatGPT benutzen müsste und ich meine C#-Kentnisse auffrischen konnte. Den fixfertigen Code habe ich auf mein GitHub hochgeladen. (80 Wörter)
 
 ☝️ _Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt_
 
