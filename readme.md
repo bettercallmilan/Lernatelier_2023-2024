@@ -61,10 +61,9 @@ Milan Jankovic
 
 ## 🗓️ 30.01.2024
 
-✍️ _Heute am 30.01 habe ich... (50-100 Wörter)_
+✍️ Heute am 30.01 habe ich den Code ausgeputzt. Dass heisst, ich habe alle Funktionen (Termin hinzufügen, Termin löschen, Termin verändern und Termine anzeigen) in einzelne Funktionen ausgelagert und die Main Funktion sieht jetzt viel strukturierter aus. Dazu habe ich noch alle Variablen auf Englisch übersetzt und sinnvoll benannt. Ich konnte auch noch mein GitHub Profil schöner gestalten. Ich habe mein README.md sinnvoll ausgefüllt und zwei Repositories gepinnt. (67 Wörter)
 
 ## 🪞 Reflexion
+Mein Verbesserungsvorschlag war es, in der Freizeit mehr zu programmieren. Dies konnte ich nur zum Teil erreichen, da wir in der letzten Zeit viele Prüfungen hatten. Jedoch konnte ich mit diesem 4-wöchigen Projekt C# repetieren und mich nochmals in die einzelnen Sachen vertiefen. Dazu habe ich nur wenig ChatGPT gebraucht, was für mich wichtig ist, da ich dann C# nicht nur kurzfristig lerne. Ich konnte auch noch mein GitHub Profil verbessern, was ich schon länger vorhatte. Ich finde dies auch wichtig (vor allem für die Bewerbung im 4. Jahr) (89 Wörter).
 
-<!--Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).-->
-
-<!--Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?-->
+Ich persönlich fand die 4-wöchige LP3 angenehmer, da es viel mehr Möglichkeiten/Projekte gibt die man in kurzer Zeit machen kann, als z. B. ein sehr grosses Projekt, der unbekannt viel Zeit benötigt. Dies bedeutet, dass ich vielleicht in der nächsten LP zwei kleinere bis mittelgrosse Projekte machen kann, anstatt ein sehr Grosses.
