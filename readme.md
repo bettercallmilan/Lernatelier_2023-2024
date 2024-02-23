@@ -16,7 +16,7 @@ Milan Jankovic
 
 3. **Neu**: Was möchten Sie Neues lernen?
    
-   Ich möchte in C# neue Funktionen lernen wie z. B. dictionaries; API (async, await).
+   Ich möchte in C# neue Funktionen lernen, wie z. B. dictionaries; API (async, await).
 
 4. Was wäre ein geeignetes Projekt für diese LP4?
    
