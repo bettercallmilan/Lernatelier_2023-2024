@@ -29,20 +29,34 @@ Milan Jankovic
 ## 27.2.2024
 
 - [ ]  WinForms GUI erstellen
-- [ ]  Logik für Datenverwaltung erstellen 
+- [x]  Logik für Datenverwaltung erstellen 
 - [ ]  Verbindung zwischen GUI und Datenverwaltung herstellen
-- [ ]  Dateispeicherung implementieren
+- [x]  Dateispeicherung implementieren
 
 | Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
 | --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
 | 1               | WinForms GUI erstellen                   | -                   | -                          |          |
-| 2               | Datenverwaltungslogik                    | -                   | -                          |          |
+| 2               | Datenverwaltungslogik                    | -                   | -                          |    x     |
 | 3               | GUI & Datenverwaltung herstellen         | Eingabe GUI Element | erwünschte Ausgabe         |          |
-| 4               | Termin hinzufügen / löschen / bearbeiten | Eingabe GUI Element | Speicherung in .json Datei |          |
+| 4               | Termin hinzufügen / löschen / bearbeiten | Eingabe GUI Element | Speicherung in .json Datei |    x     |
+
+✍️ Heute habe ich die Datenverwaltung fertiggemacht. Jetzt werden die Termine in einer Datei gespeichert, also d.h. wenn man den Programm schliesst und dann wieder aufmacht, sind die vorher eingegebenen Termine vorhanden. Ich konnte leider mit WinForms noch nicht anfangen, da ich zuerst die Datenspeicherung gemacht habe und am Ende nicht mehr genug Zeit hatte, dies anzufangen. (56 Wörter)
+
+## 05.3.2024
+
+- [ ]  WinForms GUI erstellen
+- [ ]  Verbindung zwischen GUI und Datenverwaltung herstellen
+- [ ]  Startbildschirm mit Zeit und Datum (aktualisierend) erstellen
+- [ ]  Buttons mit Funktionen erstellen
+
+| Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
+| --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
+| 1               | WinForms GUI erstellen                   | -                   | -                          |          |
+| 2               | GUI & Datenverwaltung herstellen         | Eingabe GUI Element | erwünschte Ausgabe         |          |
+| 3               | Programm gestartet / Startbildschrim programmiert | -                   | Willkommensbildschirm mit Zeit/Datum  |          |
+| 4               | Buttons mit Funktionen erstellt | erwünschte Eingabe (z. B. Termine abrufen)    | erwünschte Ausgabe (Termine werden angezeigt) |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## Reflexion
 
