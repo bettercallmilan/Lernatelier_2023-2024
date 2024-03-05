@@ -44,19 +44,35 @@ Milan Jankovic
 
 ## 05.3.2024
 
-- [ ]  WinForms GUI erstellen
-- [ ]  Verbindung zwischen GUI und Datenverwaltung herstellen
-- [ ]  Startbildschirm mit Zeit und Datum (aktualisierend) erstellen
-- [ ]  Buttons mit Funktionen erstellen
+- [x]  WinForms GUI erstellen
+- [x]  Verbindung zwischen GUI und Datenverwaltung herstellen
+- [x]  Startbildschirm mit Zeit und Datum (aktualisierend) erstellen
+- [x]  Buttons mit Funktionen erstellen
 
 | Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
 | --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
-| 1               | WinForms GUI erstellen                   | -                   | -                          |          |
-| 2               | GUI & Datenverwaltung herstellen         | Eingabe GUI Element | erwünschte Ausgabe         |          |
-| 3               | Programm gestartet / Startbildschrim programmiert | -                   | Willkommensbildschirm mit Zeit/Datum  |          |
-| 4               | Buttons mit Funktionen erstellt | erwünschte Eingabe (z. B. Termine abrufen)    | erwünschte Ausgabe (Termine werden angezeigt) |          |
+| 1               | WinForms GUI erstellen                   | -                   | -                          |    x     |
+| 2               | GUI & Datenverwaltung herstellen         | Eingabe GUI Element | erwünschte Ausgabe         |    x     |
+| 3               | Programm gestartet / Startbildschrim programmiert | -                   | Willkommensbildschirm mit Zeit/Datum  |    x     |
+| 4               | Buttons mit Funktionen erstellt | erwünschte Eingabe (z. B. Termine abrufen)    | erwünschte Ausgabe (Termine werden angezeigt) |    x     |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich alle meine Arbeitspakete fertig machen können. Ich habe eine neue WinForms Datei erstellt und als erstes ein Menü erstellt mit all den nötigen Funktionen. Die Funktionen konnte ich aber nicht vollständig beendet, jedoch sieht der GUI schon mal gut aus. Die Datenverwaltung funktioniert auch wie erwünscht. Ich habe WinForms auch repetiert, also ist es mir jetzt viel klarer, wie es aufgebaut ist. (65 Wörter)
+
+## 12.3.2024
+
+- [ ]  Funktion 'Termine erstellen' tz WinForms übernehmen
+- [ ]  Funktion 'Termine löschen' zu WinForms übernehmen
+- [ ]  Funktion 'Termine verändern' zu WinForms übernehmen
+- [ ]  Einzelne Forms für Funktionen verändern (nicht alles in einem Fenster)
+
+| Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
+| --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
+| 1               | Funktion Termine erstellen fertig        | Button Termine erstellen drücken | Neues Fenster mit Eingabefeld |        |
+| 2               | Funktion Termine löschen fertig         | Button Termine löschen drücken | Neues Fenster mit Eingabefeld |          |
+| 3               | Funktion Termine verändern fertig | Button Termine verändern drücken | Neues Fenster mit Eingabefeld |          |
+| 4               | Buttons mit Funktionen fertigerstellt | -     | -   |         |
+
+✍️ Heute habe ich...
 
 ## Reflexion
 
