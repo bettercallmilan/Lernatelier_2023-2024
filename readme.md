@@ -60,7 +60,23 @@ Milan Jankovic
 
 ## 12.3.2024
 
-- [ ]  Funktion 'Termine erstellen' tz WinForms übernehmen
+- [x]  Button 'Termine erstellen' gestalten
+- [x]  Button 'Termine löschen' gestalten
+- [x]  Button 'Termine verändern' gestalten
+- [x]  Anfangs-GUI gestalten
+
+| Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
+| --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
+| 1               | -        | - | - | x      |
+| 2               | -        | - | - |  x      |
+| 3               | - | - | - |    x   |
+| 4               | - | -     | -   |   x     |
+
+✍️ Heute habe ich meinen allgemeinen GUI und die Buttons besser und benutzerfreundlicher gemacht was zur einer schöneren App beigetragen hat. Man kann jetzt jeden Termin viel besser einsehen/verändern und löschen. Nächste Woche muss ich nur noch die Funktionen fertigmachen und vielleicht noch ein paar Verbesserungen und dann wäre meine Kalender-App fertig. (51 Wörter)
+
+## 19.3.2024
+
+- [ ]  Funktion 'Termine erstellen' zu WinForms übernehmen
 - [ ]  Funktion 'Termine löschen' zu WinForms übernehmen
 - [ ]  Funktion 'Termine verändern' zu WinForms übernehmen
 - [ ]  Einzelne Forms für Funktionen verändern (nicht alles in einem Fenster)
@@ -72,7 +88,6 @@ Milan Jankovic
 | 3               | Funktion Termine verändern fertig | Button Termine verändern drücken | Neues Fenster mit Eingabefeld |          |
 | 4               | Buttons mit Funktionen fertigerstellt | -     | -   |         |
 
-✍️ Heute habe ich...
 
 ## Reflexion
 
