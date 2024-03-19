@@ -76,17 +76,35 @@ Milan Jankovic
 
 ## 19.3.2024
 
-- [ ]  Funktion 'Termine erstellen' zu WinForms übernehmen
+- [x]  Funktion 'Termine erstellen' zu WinForms übernehmen
 - [ ]  Funktion 'Termine löschen' zu WinForms übernehmen
 - [ ]  Funktion 'Termine verändern' zu WinForms übernehmen
-- [ ]  Einzelne Forms für Funktionen verändern (nicht alles in einem Fenster)
+- [x]  Einzelne Forms für Funktionen verändern (nicht alles in einem Fenster)
 
 | Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
 | --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
-| 1               | Funktion Termine erstellen fertig        | Button Termine erstellen drücken | Neues Fenster mit Eingabefeld |        |
+| 1               | Funktion Termine erstellen fertig        | Button Termine erstellen drücken | Neues Fenster mit Eingabefeld | x     |
 | 2               | Funktion Termine löschen fertig         | Button Termine löschen drücken | Neues Fenster mit Eingabefeld |          |
 | 3               | Funktion Termine verändern fertig | Button Termine verändern drücken | Neues Fenster mit Eingabefeld |          |
-| 4               | Buttons mit Funktionen fertigerstellt | -     | -   |         |
+| 4               | Buttons mit Funktionen fertigerstellt | -     | -   | x       |
+
+✍️ Heute habe ich die Fenster für 'Termine hinzufügen' und 'Termine anzeigen' gemacht. Ich konnte die anderen zwei Arbeitspakete nicht fertigstellen, da die, die ich gemacht habe schon viel Zeit bräuchten wegen den verschiedenen Sachen die ich von Form1 zu anderen Forms (Termine hinzufügen, Termine anzeigen), wie z. B. dass die eingetragenen Termine richtig angezeigt werden und immer noch in einer Datei gespeichert werden. Nächste Woche werde ich dann mit den anderen Funktionen wahrscheinlich fertig werden. (75 Wörter)
+
+## 26.3.2024
+
+- [ ]  Funktion 'Termine löschen' zu WinForms übernehmen
+- [ ]  Funktion 'Termine verändern' zu WinForms übernehmen
+- [ ]  Code aufputzen
+- [ ]  GUI besser gestalten
+
+| Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
+| --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
+| 1               | Funktion Termine löschen fertig        | Button Termine löschen drücken | Neues Fenster mit Eingabefeld |       |
+| 2               | Funktion Termine verändern fertig         | Button Termine verändern drücken | Neues Fenster mit Eingabefeld |          |
+| 3               | Einzelne (alle) Funktionen fertig         | -                          |           -              |          |
+| 4               | Einzelne (alle) Funktionen fertig       |   -       |    -    |         |
+
+✍️ Heute habe ich...
 
 
 ## Reflexion
