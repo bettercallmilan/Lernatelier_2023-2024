@@ -9,12 +9,16 @@ namespace Kalender_Forms1
 {
     public partial class Kalender : Form
     {
-        private string filePath = "events.json";
-        private Dictionary<DateTime, string> events;
+        private static string filePath = "events.json";
+        public static Dictionary<DateTime, string> Events { get; set; }
+        private AddEvent addEventForm;
+        private Form2 showEventsForm;
 
         public Kalender()
         {
             InitializeComponent();
+            AnzeigeDatumUndZeit(DateTime.Now);
+            Events = LoadEventsFromFile();
         }
 
         private void AnzeigeDatumUndZeit(DateTime dateTime)
@@ -24,12 +28,14 @@ namespace Kalender_Forms1
 
         private void TermineAbrufen_Click(object sender, EventArgs e)
         {
-
+            showEventsForm = new Form2(Events);
+            showEventsForm.Show();
         }
 
         private void TerminHinzufuegen_Click(object sender, EventArgs e)
         {
-
+            addEventForm = new AddEvent(this);
+            addEventForm.Show();
         }
 
         private void TerminVeraendern_Click(object sender, EventArgs e)
@@ -40,6 +46,37 @@ namespace Kalender_Forms1
         private void TerminLoeschen_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            // wird nicht benutzt
+        }
+
+        private static void SaveEventsToFile()
+        {
+            string json = JsonConvert.SerializeObject(Events);
+            File.WriteAllText(filePath, json);
+        }
+
+        private Dictionary<DateTime, string> LoadEventsFromFile()
+        {
+            if (File.Exists(filePath))
+            {
+                string json = File.ReadAllText(filePath);
+                return JsonConvert.DeserializeObject<Dictionary<DateTime, string>>(json);
+            }
+            else
+            {
+                return new Dictionary<DateTime, string>();
+            }
+        }
+
+        public static void AddEvent(DateTime date, string eventName)
+        {
+            Events[date] = eventName;
+            SaveEventsToFile();
+            MessageBox.Show($"Termin am {date.ToShortDateString()} eingetragen: {eventName}");
         }
     }
 }
