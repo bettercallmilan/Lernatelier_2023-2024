@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ilI2v7ikYCKPE0SoTSIBdNt2gEKvrFo0ED3yZTZYSXHHR4ND3drR9uFkE+wFnbcS1aSrFAYj4SlxT5Fphb0O4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\KalenderFormsAlt\\Kalender_Forms1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
