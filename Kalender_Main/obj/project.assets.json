@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\KalenderFormsAlt\\Kalender_Forms1.csproj",
+      "projectUniqueName": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\Kalender_Forms1.csproj",
       "projectName": "Kalender_Forms1",
-      "projectPath": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\KalenderFormsAlt\\Kalender_Forms1.csproj",
+      "projectPath": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\Kalender_Forms1.csproj",
       "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\KalenderFormsAlt\\obj\\",
+      "outputPath": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
