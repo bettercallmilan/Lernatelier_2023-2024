@@ -92,21 +92,36 @@ Milan Jankovic
 
 ## 26.3.2024
 
-- [ ]  Funktion 'Termine löschen' zu WinForms übernehmen
-- [ ]  Funktion 'Termine verändern' zu WinForms übernehmen
-- [ ]  Code aufputzen
-- [ ]  GUI besser gestalten
+- [x] Funktion 'Termine löschen' zu WinForms übernehmen
+- [x] Funktion 'Termine verändern' zu WinForms übernehmen
+- [ ] Code aufputzen
+- [ ] GUI besser gestalten
 
 | Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
 | --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
-| 1               | Funktion Termine löschen fertig        | Button Termine löschen drücken | Neues Fenster mit Eingabefeld |       |
-| 2               | Funktion Termine verändern fertig         | Button Termine verändern drücken | Neues Fenster mit Eingabefeld |          |
+| 1               | Funktion Termine löschen fertig        | Button Termine löschen drücken | Termine gelöscht      | x       |
+| 2               | Funktion Termine verändern fertig         | Button Termine verändern drücken | Termine bearbeitet     | x       |
 | 3               | Einzelne (alle) Funktionen fertig         | -                          |           -              |          |
 | 4               | Einzelne (alle) Funktionen fertig       |   -       |    -    |         |
 
-✍️ Heute habe ich...
+✍️ Heute habe ich die Funktionen für 'Termine löschen' und 'Termine verändern' erfolgreich in mein WinForms-Projekt integriert. Die entsprechenden Buttons führen nun zu neuen Fenstern, in denen diese Aktionen ausgeführt werden können. Die anderen Aufgaben für heute habe ich noch nicht abgeschlossen, werde aber daran arbeiten, um sie bis zum nächsten Update fertigzustellen.
+
+## 02.4.2024
+
+- [ ] Code aufputzen
+- [ ] GUI besser gestalten
+
+| Testfall-Nummer | Ausgangslage (Given)                     | Eingabe (When)      | Ausgabe (Then)             | Erfüllt? |
+| --------------- | ---------------------------------------- | ------------------- | -------------------------- | -------- |
+| 1               | Einzelne (alle) Funktionen fertig         | -                          |           -              |          |
+| 2               | Einzelne (alle) Funktionen fertig       |   -       |    -    |         |
+
+✍️ Heute habe ich es nicht geschafft, den Code aufzuräumen oder die GUI zu verbessern. Das werde ich weiterhin als meine Hauptziele für die nächste LP beibehalten, damit meine App fertig und benutzerfreundlich wird.
 
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+In der Lern-Periode 4 habe ich mich intensiv mit der Weiterentwicklung meiner Kalenderanwendung in C# beschäftigt. Dabei konnte ich meine Kenntnisse in der Datenverwaltung und der WinForms-GUI-Programmierung vertiefen. Mein Verbesserungsvorschlag (VBV) aus LP3, in der Freizeit mehr zu programmieren, konnte ich trotz vieler Prüfungen nur teilweise umsetzen.
+
+Besonders positiv war mein Fortschritt bei der Datenverwaltung und der Implementierung der grundlegenden GUI-Funktionen (26.2 bis 12.3). Hier konnte ich erfolgreich die Logik für die Datenverwaltung erstellen, Dateispeicherung implementieren und eine benutzerfreundliche Oberfläche gestalten. Die Integration von neuen Funktionen wie Termine erstellen, löschen und verändern sowie die Verbindung zwischen GUI und Datenverwaltung verlief ebenfalls erfolgreich.
