@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|c:\\users\\milan\\documents\\github\\lernatelier-i23d\\kalender_main\\deleteevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|solutionrelative:deleteevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|c:\\users\\milan\\documents\\github\\lernatelier-i23d\\kalender_main\\manageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|solutionrelative:manageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|c:\\users\\milan\\documents\\github\\lernatelier-i23d\\kalender_main\\deleteevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|solutionrelative:deleteevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|c:\\users\\milan\\documents\\github\\lernatelier-i23d\\kalender_main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|c:\\users\\milan\\documents\\github\\lernatelier-i23d\\kalender_main\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBE01B-DBD8-4422-9AC5-4FD0DDCEF5B0}|Kalender_Forms1.csproj|solutionrelative:addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +58,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageEvent.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\ManageEvent.cs",
+              "RelativeDocumentMoniker": "ManageEvent.cs",
+              "ToolTip": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\ManageEvent.cs",
+              "RelativeToolTip": "ManageEvent.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:14:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteEvents.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\DeleteEvents.cs",
+              "RelativeDocumentMoniker": "DeleteEvents.cs",
+              "ToolTip": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\DeleteEvents.cs [Entwurf]",
+              "RelativeToolTip": "DeleteEvents.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:04:58.993Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeleteEvents.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\DeleteEvents.cs",
+              "RelativeDocumentMoniker": "DeleteEvents.cs",
+              "ToolTip": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\DeleteEvents.cs",
+              "RelativeToolTip": "DeleteEvents.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:08:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEvent.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\AddEvent.cs",
+              "RelativeDocumentMoniker": "AddEvent.cs",
+              "ToolTip": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\AddEvent.cs",
+              "RelativeToolTip": "AddEvent.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:08:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\milan\\Documents\\GitHub\\Lernatelier-I23d\\Kalender_Main\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAEwDcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T09:24:41.378Z",
               "EditorCaption": ""

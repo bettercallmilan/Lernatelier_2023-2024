@@ -14,6 +14,7 @@ namespace Kalender_Forms1
         private AddEvent addEventForm;
         private Form2 showEventsForm;
         private ManageEvent manageEventsForm;
+        private DeleteEvents deleteEventsForm;
 
         public Kalender()
         {
@@ -51,7 +52,8 @@ namespace Kalender_Forms1
 
         private void TerminLoeschen_Click(object sender, EventArgs e)
         {
-
+            deleteEventsForm = new DeleteEvents(Events);
+            deleteEventsForm.Show();
         }
 
         private void label2_Click(object sender, EventArgs e)

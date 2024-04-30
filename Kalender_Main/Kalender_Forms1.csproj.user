@@ -13,6 +13,9 @@
     <Compile Update="EditEventForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="DeleteEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ManageEvent.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kalender_Forms1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36f731929a29674bfb1c0b555125e4bbcd423a0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fda612773636d5fe48f46984cd8d4afa7661a45c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kalender_Forms1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kalender_Forms1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
