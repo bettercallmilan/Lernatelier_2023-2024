@@ -39,6 +39,9 @@ C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-
 C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.AssemblyInfoInputs.cache
 C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.AssemblyInfo.cs
 C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.csproj.CoreCompileInputs.cache
-C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.csproj.CopyComplete
 C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.genruntimeconfig.cache
 C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\ref\Kalender_Forms1.dll
+C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.sourcelink.json
+C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender.F04812FC.Up2Date
+C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.ManageEvent.resources
+C:\Users\milan\Documents\GitHub\Lernatelier-I23d\Kalender_Main\obj\Debug\net6.0-windows\Kalender_Forms1.EditEventForm.resources

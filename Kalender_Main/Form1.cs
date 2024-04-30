@@ -13,6 +13,7 @@ namespace Kalender_Forms1
         public static Dictionary<DateTime, string> Events { get; set; }
         private AddEvent addEventForm;
         private Form2 showEventsForm;
+        private ManageEvent manageEventsForm;
 
         public Kalender()
         {
@@ -40,7 +41,12 @@ namespace Kalender_Forms1
 
         private void TerminVeraendern_Click(object sender, EventArgs e)
         {
-
+            manageEventsForm = new ManageEvent(Events);
+            if (manageEventsForm.ShowDialog() == DialogResult.OK)
+            {
+                Events = manageEventsForm.GetUpdatedEvents();
+                SaveEventsToFile();
+            }
         }
 
         private void TerminLoeschen_Click(object sender, EventArgs e)
@@ -53,7 +59,7 @@ namespace Kalender_Forms1
             // wird nicht benutzt
         }
 
-        private static void SaveEventsToFile()
+        public static void SaveEventsToFile()
         {
             string json = JsonConvert.SerializeObject(Events);
             File.WriteAllText(filePath, json);
