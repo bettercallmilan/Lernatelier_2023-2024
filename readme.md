@@ -1,6 +1,6 @@
 # Lern-Periode 5
 
-23.4 bis 25.6.2024
+23.04 bis 25.06.2024
 
 ## Grob-Planung
 
@@ -11,17 +11,24 @@
 4. Was wäre ein geeignetes Projekt für diese LP5?
    Als erstes möchte ich mein Projekt (Kalenderanwendung) aus LP4 fertigmachen. Für die LP5 möchte ich mehr mit HTML programmieren, die Funktionen lernen und eventuell eine eigene Website erstellen.
 
-## 23.4.2024
+## 23.04.2024
 
 ✍️ Heute habe ich die Grob-Planung angefangen und die Fragen darin beantwortet. Dazu habe ich noch geschaut, was ich in LP5 machen kann. Ich habe mich für HTML entschieden. Dazu muss ich mir noch genau überlegen, was ich machen will, da eine Website vielleicht nur 2-3 mal Lernatelier braucht. Dies werde ich noch in den folgenden Wochen herausfinden. (57 Wörter)
 
-## 30.4.2024
+## 30.04.2024
 
-- [ ] (LP4) Funktion 'Termine löschen' zu WinForms übernehmen
+- [x] (LP4) Funktion 'Termine löschen' zu WinForms übernehmen
 - [ ] (LP4) Funktion 'Termine verändern' zu WinForms übernehmen
-- [ ] (LP4) Code aufputzen
-- [ ] (LP4) GUI besser gestalten
+- [x] (LP4) Code aufputzen
+- [x] (LP4) GUI besser gestalten
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich an meinem Kalender Projekt aus LP4 gearbeitet. Darin konnte ich viel Fortschritt machen. Ich habe die Funktion 'Termine verändern' mit den nötigen GUIs gemacht. Da dies viel Zeit brauchte, konnte ich leider 'Termine löschen' nicht ganz fertigschaffen. Ich habe das GUI für 'Termine löschen' erstellt hatte jedoch nicht genug Zeit, den Code, der tatsächlich einen ausgewählten Termin löscht, zu erstellen. Dazu habe ich noch auf GitHub bei Issues die Sachen reingeschrieben, die noch verbessert werden müssen. (79 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 07.04.2024
+
+- [ ] (LP4) Funktion 'Termine verändern' zu WinForms übernehmen
+- [ ] mit einer Website anfangen
+- [ ] HTML Tutorials anschauen -> Wissen erweitern
+- [ ] eine nicht allzu spezielle Website fertighaben
+
+✍️ Heute habe ich...
