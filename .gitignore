@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Kalender_Main/.vs/Kalender_Main/DesignTimeBuild/.dtbcache.v2
+Kalender_Main/.vs/Kalender_Main/v17/.suo
+Kalender_Main/.vs/ProjectEvaluation/kalender_main.metadata.v7.bin
+Kalender_Main/.vs/ProjectEvaluation/kalender_main.projects.v7.bin
