@@ -24,11 +24,20 @@
 
 ✍️ Heute habe ich an meinem Kalender Projekt aus LP4 gearbeitet. Darin konnte ich viel Fortschritt machen. Ich habe die Funktion 'Termine verändern' mit den nötigen GUIs gemacht. Da dies viel Zeit brauchte, konnte ich leider 'Termine löschen' nicht ganz fertigschaffen. Ich habe das GUI für 'Termine löschen' erstellt hatte jedoch nicht genug Zeit, den Code, der tatsächlich einen ausgewählten Termin löscht, zu erstellen. Dazu habe ich noch auf GitHub bei Issues die Sachen reingeschrieben, die noch verbessert werden müssen. (79 Wörter)
 
-## 07.04.2024
+## 07.05.2024
 
-- [ ] (LP4) Funktion 'Termine verändern' zu WinForms übernehmen
-- [ ] mit einer Website anfangen
+- [x] (LP4) Funktion 'Termine verändern' zu WinForms übernehmen
+- [x] mit einer Website anfangen
 - [ ] HTML Tutorials anschauen -> Wissen erweitern
-- [ ] eine nicht allzu spezielle Website fertighaben
+- [x] eine nicht allzu spezielle Website fertighaben
 
-✍️ Heute habe ich...
+✍️ Heute habe ich endlich mein Kalenderprojekt fertiggeschrieben. Es sieht nicht allzu "fortgeschritten" aus aber alles funktioniert so wie erwünscht und ich habe ein fertiges Projekt, das ich Drittpersonen zeigen kann. Den Projekt habe ich mithilfe von GitHub durchgeführt, also kann man den Prozess jederzeit abrufen. Falls ich irgendwann möchte, kann ich an diesem Projekt weiterarbeiten und es noch mehr entwickeln. Ich habe heute noch mit einer Website angefangen. Dazu habe ich ein paar nötige Extensions in VSC installiert und die alle ausprobiert. (82 Wörter)
+
+## 14.05.2024
+
+- [ ] Website: Idee entwickeln, um was sich die Website handelt
+- [ ] Website Index (Main Page) mit draw.io o.ä. designen
+- [ ] mit Main Page anfangen
+- [ ] evtl. HTML Tutorials anschauen
+
+✍️ Heute habe ich... (50 bis 100 Wörter)
