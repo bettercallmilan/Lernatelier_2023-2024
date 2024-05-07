@@ -19,13 +19,12 @@ namespace Kalender_Forms1
         public Kalender()
         {
             InitializeComponent();
-            AnzeigeDatumUndZeit(DateTime.Now);
             Events = LoadEventsFromFile();
         }
 
         private void AnzeigeDatumUndZeit(DateTime dateTime)
         {
-            label2.Text = dateTime.ToString("dddd, dd.MM.yyyy HH:mm");
+            label2.Text = dateTime.ToString("dddd, dd.MM.yyyy HH:mm:ss");
         }
 
         private void TermineAbrufen_Click(object sender, EventArgs e)
@@ -85,6 +84,11 @@ namespace Kalender_Forms1
             Events[date] = eventName;
             SaveEventsToFile();
             MessageBox.Show($"Termin am {date.ToShortDateString()} eingetragen: {eventName}");
+        }
+
+        private void timer1_Tick_1(object sender, EventArgs e)
+        {
+            AnzeigeDatumUndZeit(DateTime.Now);
         }
     }
 }

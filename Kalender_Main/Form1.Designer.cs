@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             pictureBox1 = new PictureBox();
             label1 = new Label();
             TerminHinzufuegen = new Button();
@@ -35,6 +36,7 @@
             TerminLoeschen = new Button();
             TermineAbrufen = new Button();
             label2 = new Label();
+            timer1 = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -111,12 +113,18 @@
             label2.BackColor = Color.Black;
             label2.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
             label2.ForeColor = Color.Transparent;
-            label2.Location = new Point(412, 598);
+            label2.Location = new Point(401, 626);
             label2.Name = "label2";
             label2.Size = new Size(273, 35);
             label2.TabIndex = 9;
             label2.Text = "Anzeige Datum/Uhrzeit";
             label2.Click += label2_Click;
+            // 
+            // timer1
+            // 
+            timer1.Enabled = true;
+            timer1.Interval = 1000;
+            timer1.Tick += timer1_Tick_1;
             // 
             // Kalender
             // 
@@ -147,5 +155,6 @@
         private Button TerminLoeschen;
         private Button TermineAbrufen;
         private Label label2;
+        private System.Windows.Forms.Timer timer1;
     }
 }
