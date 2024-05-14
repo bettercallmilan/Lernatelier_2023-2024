@@ -35,9 +35,18 @@
 
 ## 14.05.2024
 
-- [ ] Website: Idee entwickeln, um was sich die Website handelt
-- [ ] Website Index (Main Page) mit draw.io o.ä. designen
-- [ ] mit Main Page anfangen
+- [x] Website: Idee entwickeln, um was sich die Website handelt
+- [x] Website Index (Main Page) mit draw.io o.ä. designen
+- [x] mit Main Page anfangen
 - [ ] evtl. HTML Tutorials anschauen
 
-✍️ Heute habe ich... (50 bis 100 Wörter)
+✍️ Heute habe ich eine Idee entwickelt, um was sich meine Website handelt. Ich habe mich für meine Katzen entschieden, da mir nichts anderes einfiel. Ich finde diese Idee aber immerhin noch gut. Dazu habe ich noch mit draw.io angefangen, mein Design der Home Page zu designen. Ich konnte nicht allzu viel Fortschritt machen, aber habe das Grundriss. Mit der Main Page habe ich auch "angefangen". Besser gesagt, habe ich die heute vorgestellten Funktionen ausprobiert und geschaut, wie was funktioniert. Tutorials habe ich mir nicht angesehen. (85 Wörter)
+
+## 21.05.2024
+
+- [ ] Main Page weiter designen in draw.io
+- [ ] Unterseiten überlegen
+- [ ] Hintergrund und Links zu Unterseiten auf Home Page einbauen
+- [ ] Mit Design von Unterseiten anfangen
+
+✍️ Heute habe ich...
