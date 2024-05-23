@@ -44,9 +44,18 @@
 
 ## 21.05.2024
 
-- [ ] Main Page weiter designen in draw.io
-- [ ] Unterseiten überlegen
+- [x] Main Page weiter designen in draw.io
+- [x] Unterseiten überlegen
 - [ ] Hintergrund und Links zu Unterseiten auf Home Page einbauen
-- [ ] Mit Design von Unterseiten anfangen
+- [x] Mit Design von Unterseiten anfangen
+
+✍️ Heute habe ich für die Idee meiner Webseite umentschieden. Meine Katze war eine nicht schlechte, jedoch nicht genug gute Idee. Ich habe mich für einer meiner Hobbys umentschieden und zwar Fotografieren. Dazu habe ich mit der Main Page designen angefangen und die Farben ausgewählt, die ich für meine Webseite verwenden möchte. All das habe ich in meinem Pflichtheit des Moduls 293 dokumentiert. Die Unterseiten habe ich mir auch schon überlegt und dokumentiert. Da ich die Unterseiten erst zu designen angefangen habe, habe ich noch nicht mit dem Programmieren begonnen, deswegen habe ich den AP3 nicht als erledigt markiert.
+
+## 28.05.2024
+
+- [ ] Unterseite 'About me' mit draw.io designen
+- [ ] Unterseite 'Equipment' mit draw.io designen
+- [ ] Unterseite 'Contact' mit draw.io designen
+- [ ] Unterseite 'Portfolio' mit draw.io designen
 
 ✍️ Heute habe ich...
