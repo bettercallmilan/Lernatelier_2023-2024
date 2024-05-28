@@ -53,9 +53,18 @@
 
 ## 28.05.2024
 
+- [x] Main Page mit draw.io fertigdesignen
+- [ ] Unterseite 'Equipment' mit draw.io designen
+- [ ] Unterseite 'Contact' mit draw.io designen
+- [x] Unterseite 'Portfolio' mit draw.io designen
+
+✍️ Heute habe ich die Main Page mit draw.io fertiggemacht. Dazu habe ich auch noch mit dem Programmieren der Main Page angefangen, um die heute vorgestellten Funktionen ausprobieren zu können. Es hat alles gut geklappt und ich habe den Grundriss von meiner Main Page fertig. Der Navigationbar funktioniert so wie erwünscht. Ich konnte auch ein Hintergrundbild einfügen. Dazu habe ich es noch rechtzeitig geschafft die Unterseite 'Portfolio' fertig zu machen (in draw.io). (71 Wörter)
+
+## 04.06.2024
+
 - [ ] Unterseite 'About me' mit draw.io designen
 - [ ] Unterseite 'Equipment' mit draw.io designen
 - [ ] Unterseite 'Contact' mit draw.io designen
-- [ ] Unterseite 'Portfolio' mit draw.io designen
+- [ ] An der Main Page weiterprogrammiren (soll genau wie Konzept in draw.io aussehen)
 
 ✍️ Heute habe ich...
