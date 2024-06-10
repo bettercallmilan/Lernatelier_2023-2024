@@ -62,9 +62,18 @@
 
 ## 04.06.2024
 
-- [ ] Unterseite 'About me' mit draw.io designen
-- [ ] Unterseite 'Equipment' mit draw.io designen
-- [ ] Unterseite 'Contact' mit draw.io designen
-- [ ] An der Main Page weiterprogrammiren (soll genau wie Konzept in draw.io aussehen)
+- [x] Unterseite 'About me' mit draw.io designen
+- [x] Unterseite 'Equipment' mit draw.io designen
+- [x] Unterseite 'Contact' mit draw.io designen
+- [x] An der Main Page weiterprogrammiren (soll genau wie Konzept in draw.io aussehen)
+
+✍️ Heute habe ich alle Unterseiten in draw.io fertigdesigned. Dazu habe ich noch auf der Main Page weiterprogrammiert. Ich konnte auch noch mit dem Live Server meine Webseite am Handy testen und schauen, ob der viewport (responsive) funktioniert. Ich hatte noch Schwierigkeiten mit dem Navigationsbar, da es auf Handy komisch aussah. Es gab ein Scroll-Bar (wie erwünscht), jedoch als man die Webseite aufmachte war es nicht in der Mitte und man konnte nicht alle Unterseiten sehen. Dies wird ich nächstes Mal reparieren. (81 Wörter)
+
+## 11.06.2024
+
+- [ ] Pflichtenheft und evtl. Mockup fertigstellen
+- [ ] Pflichtenheft und Mockup an Lehrperson schicken
+- [ ] Navigationsbar fertigstellen
+- [ ] Fotos für Webseite finden
 
 ✍️ Heute habe ich...
