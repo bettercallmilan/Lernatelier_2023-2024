@@ -71,9 +71,18 @@
 
 ## 11.06.2024
 
-- [ ] Pflichtenheft und evtl. Mockup fertigstellen
-- [ ] Pflichtenheft und Mockup an Lehrperson schicken
+- [x] Pflichtenheft und evtl. Mockup fertigstellen
+- [x] Pflichtenheft und Mockup an Lehrperson schicken
 - [ ] Navigationsbar fertigstellen
-- [ ] Fotos für Webseite finden
+- [x] Fotos für Webseite finden
+
+✍️ Heute habe ich mein Pflichtenheft und das Mockup fertiggestellt und dementsprechend an die Lehrperson zur Überprüfung geschickt. Dazu konnte ich auch noch ein paar Bilder für meine Webseite aussuchen, die dann an verschiedenen Orten platziert werden, um die Webseite schöner zu gestalten. Den Navigationsbar habe ich nicht mehr weiterentwickelt, da ich mich heute mehr auf den Design der Webseite fokussiert habe. (61 Wörter)
+
+## 18.06.2024
+
+- [ ] Navigationsbar fertigstellen
+- [ ] Verbesserungsvorschläge der Lehrperson interpretieren
+- [ ] Verbesserungsvorschläge der Lehrperson umsetzen
+- [ ] Main Page zu 60-80% fertigstellen (nach dem Mockup)
 
 ✍️ Heute habe ich...
