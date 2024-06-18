@@ -80,9 +80,16 @@
 
 ## 18.06.2024
 
-- [ ] Navigationsbar fertigstellen
-- [ ] Verbesserungsvorschläge der Lehrperson interpretieren
-- [ ] Verbesserungsvorschläge der Lehrperson umsetzen
-- [ ] Main Page zu 60-80% fertigstellen (nach dem Mockup)
+- [x] Navigationsbar fertigstellen
+- [x] Verbesserungsvorschläge der Lehrperson interpretieren
+- [x] Verbesserungsvorschläge der Lehrperson umsetzen
+- [x] Main Page zu 60-80% fertigstellen (nach dem Mockup)
+
+✍️ Heute habe ich alle meine Arbeitspakete fertiggemacht. Ich habe alle Verbesserungsvorschläge, die mir die Lehrperson gegeben hat in meine Webseite implementiert. Dazu musste ich noch zuerst den Mockup komplett verändern, da ich dort fast überall 3 Bereiche hatte, obwohl es 5 sein müssen. Nachdem ich mit den Bereichen fertig war, habe ich mit der Main Page begonnen. Ich habe den Header verändert und ein Aside hinzugefügt. Dazu habe ich noch die Texte usw. styled. (74 Wörter)
+
+## 25.06.2024
+
+- [ ] Auf Unterseiten Footer und Header implementieren
+- [ ] Footer fertigstellen (evtl. Links zu Social Media und ein Scroll Up Button) 
 
 ✍️ Heute habe ich...
