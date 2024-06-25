@@ -102,3 +102,10 @@
 
 ✍️ Heute habe ich die zwei geplanten Arbeitspakete fertiggestellt und war somit mit dem wichtigsten Teil der Webseite fertig (Main Page). Ich muss die restlichen 4 Unterseiten noch fertigstellen aber dafür habe ich noch am Mittwoch und Donnerstag Zeit. Footer und Header sehen jetzt so wie im Mockup aus. Den Scroll Up Button konnte ich auch noch im Footer implementieren und es funktioniert wie erwünscht. Die Links zu Social Media mache ich eventuell noch rein, obwohl mir das nicht so wichtig ist. (81 Wörter)
 
+## LP-Reflexion
+
+Mein VBV war es, mehr Funktionen in C# zu lernen und HTML zu lernen. In C# konnte ich mein Wissen zum Teil mit dem Kalenderprojekt erweitert. Dort konnte ich Funktionen wie zum Beispiel Parentform (da ich die Kalenderanwendung in WinForms programmierte) lernen. Ich wollte auch einen guten Design für die Kalenderapp, also konnte ich mich da noch ein bisschen für HTML und CSS Design vorbereiten. Dann habe ich mit meiner eigenen Website als Modulprojekt angefangen und auch fertiggestellt: https://lens.jankovic.tech (79 Wörter)
+
+## LA-Reflexion
+
+Dieses Jahr habe ich vieles über Programmieren und Technologie allgemein gelernt, zum Teil in den Modulen, zum Teil selber im Lernatelier. Ich habe auch die IPERKA Arbeitsweise gelernt, die wichtig in vielen Bereichen ist. Ich habe auch gelernt, meine Zeit einzuteilen um alles rechtzeitig zu schaffen. Nächstes Jahr möchte ich im Lernatelier mehr selber entdecken, falls ich nicht viel zu tun habe. Das heisst, ich würde selber über Sachen, die mich interessieren (evtl. neue Programmiersprache) recherchieren. Eventuell würde ich auch ein Projekt dazu machen. Im Lernatelier hat mir gefallen, dass man selber auswählen konnte, wann und was man macht. Es gab ein Freiheitsgefühl, obwohl alles rechtzeitig abgegeben werden müsste. Für das nächste Jahr habe ich keine konkreten Vorschläge, was anders sein konnte. (122 Wörter)
