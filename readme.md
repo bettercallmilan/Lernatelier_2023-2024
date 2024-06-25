@@ -89,7 +89,13 @@
 
 ## 25.06.2024
 
-- [ ] Auf Unterseiten Footer und Header implementieren
-- [ ] Footer fertigstellen (evtl. Links zu Social Media und ein Scroll Up Button) 
+- [x] Auf Unterseiten Footer und Header implementieren
+- [x] Footer fertigstellen (evtl. Links zu Social Media und ein Scroll Up Button) 
 
-✍️ Heute habe ich...
+✍️ Heute habe ich die zwei geplanten Arbeitspakete fertiggestellt und war somit mit dem wichtigsten Teil der Webseite fertig (Main Page). Ich muss die restlichen 4 Unterseiten noch fertigstellen aber dafür habe ich noch am Mittwoch und Donnerstag Zeit. Footer und Header sehen jetzt so wie im Mockup aus. Den Scroll Up Button konnte ich auch noch im Footer implementieren und es funktioniert wie erwünscht. Die Links zu Social Media mache ich eventuell noch rein, obwohl mir das nicht so wichtig ist. (81 Wörter)
+
+# Fertiges Projekt
+
+![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/2605360a-ad9d-48d5-985a-7f0f1f6d4b71)
+![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/e0e848cc-0247-4ce9-847b-b42c94ef4987)
+
