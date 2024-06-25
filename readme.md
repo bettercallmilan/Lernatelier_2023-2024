@@ -2,6 +2,14 @@
 
 23.04 bis 25.06.2024
 
+# Fertiges Projekt
+
+![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/2605360a-ad9d-48d5-985a-7f0f1f6d4b71)
+![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/e0e848cc-0247-4ce9-847b-b42c94ef4987)
+![website](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/dbd575f5-f44e-47f1-ad3b-8ae335969cb6)
+
+✍️ Meine fertige Website mit dem Namen "Milan's Lens" hat ein responsives Design, der sich an mobile Ansicht anpasst. Der Navbar wird zu einem Hamburger Menu. Dies habe ich mithilfe von JavaScript erreicht. Die Website hat noch zwei interaktiven Buttons, einer, der runterscrollt, und einer (im Footer), der den User wieder am Anfang von der Website wieder hochbringt. Da der Footer fixiert ist und immer sichtbar ist, ist der Button immer erreichbar.
+
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
@@ -93,12 +101,4 @@
 - [x] Footer fertigstellen (evtl. Links zu Social Media und ein Scroll Up Button) 
 
 ✍️ Heute habe ich die zwei geplanten Arbeitspakete fertiggestellt und war somit mit dem wichtigsten Teil der Webseite fertig (Main Page). Ich muss die restlichen 4 Unterseiten noch fertigstellen aber dafür habe ich noch am Mittwoch und Donnerstag Zeit. Footer und Header sehen jetzt so wie im Mockup aus. Den Scroll Up Button konnte ich auch noch im Footer implementieren und es funktioniert wie erwünscht. Die Links zu Social Media mache ich eventuell noch rein, obwohl mir das nicht so wichtig ist. (81 Wörter)
-
-# Fertiges Projekt
-
-![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/2605360a-ad9d-48d5-985a-7f0f1f6d4b71)
-![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/e0e848cc-0247-4ce9-847b-b42c94ef4987)
-![website](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/dbd575f5-f44e-47f1-ad3b-8ae335969cb6)
-
-✍️ Meine fertige Website mit dem Namen "Milan's Lens" hat ein responsives Design, der sich an mobile Ansicht anpasst. Der Navbar wird zu einem Hamburger Menu. Dies habe ich mithilfe von JavaScript erreicht. Die Website hat noch zwei interaktiven Buttons, einer, der runterscrollt, und einer (im Footer), der den User wieder am Anfang von der Website wieder hochbringt. Da der Footer fixiert ist und immer sichtbar ist, ist der Button immer erreichbar.
 
