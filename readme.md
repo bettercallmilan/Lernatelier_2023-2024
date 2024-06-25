@@ -98,4 +98,7 @@
 
 ![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/2605360a-ad9d-48d5-985a-7f0f1f6d4b71)
 ![image](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/e0e848cc-0247-4ce9-847b-b42c94ef4987)
+![website](https://github.com/bettercallmilan/Lernatelier-I23d/assets/142885367/dbd575f5-f44e-47f1-ad3b-8ae335969cb6)
+
+✍️ Meine fertige Website mit dem Namen "Milan's Lens" hat ein responsives Design, der sich an mobile Ansicht anpasst. Der Navbar wird zu einem Hamburger Menu. Dies habe ich mithilfe von JavaScript erreicht. Die Website hat noch zwei interaktiven Buttons, einer, der runterscrollt, und einer (im Footer), der den User wieder am Anfang von der Website wieder hochbringt. Da der Footer fixiert ist und immer sichtbar ist, ist der Button immer erreichbar.
 
