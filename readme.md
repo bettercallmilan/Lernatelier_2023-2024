@@ -104,7 +104,7 @@
 
 ## LP-Reflexion
 
-Mein VBV war es, mehr Funktionen in C# zu lernen und HTML zu lernen. In C# konnte ich mein Wissen zum Teil mit dem Kalenderprojekt erweitert. Dort konnte ich Funktionen wie zum Beispiel Parentform (da ich die Kalenderanwendung in WinForms programmierte) lernen. Ich wollte auch einen guten Design für die Kalenderapp, also konnte ich mich da noch ein bisschen für HTML und CSS Design vorbereiten. Dann habe ich mit meiner eigenen Website als Modulprojekt angefangen und auch fertiggestellt: https://lens.jankovic.tech (79 Wörter)
+Mein VBV war es, mehr Funktionen in C# zu lernen und HTML zu lernen. In C# konnte ich mein Wissen zum Teil mit dem Kalenderprojekt erweitert. Dort konnte ich Funktionen wie zum Beispiel Parentform (da ich die Kalenderanwendung in WinForms programmierte) lernen. Ich wollte auch einen guten Design für die Kalenderapp, also konnte ich mich da noch ein bisschen für HTML und CSS Design vorbereiten. Dann habe ich mit meiner eigenen Website als Modulprojekt angefangen und auch fertiggestellt: https://bettercallmilan.github.io/lens (79 Wörter)
 
 ## LA-Reflexion
 
